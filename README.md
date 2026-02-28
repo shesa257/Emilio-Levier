@@ -6,3 +6,5 @@
 <p>File: Q4256884.json
   Description: A JSON file containing the same information as the CSV file in a different format. This file opens in plain text editor
 </p>
+<p>File: LIS 545 Profile Draft
+  Description: This file is the draft of my final profile for this project, and contains the remainder of the assignment not present in the previously mentioned files.</p>
