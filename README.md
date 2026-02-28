@@ -1,5 +1,5 @@
 # Emilio-Levier
-<p><b>File: Emilio Levier Metadata</</b>p>
+<p><b>File: Emilio Levier Metadata</b></p>
 <p>Description: Metadata file in XML format structured according to DataCite's metadata schema using their provided example. Includes infrormation on the dataset's origins, size, host, and more.</p>
 <p>File: Q4256884.csv</p>
 <p>Description: A CSV file containing the listed specimens that Emilio Levier collected, including their location of collection, scientific name, date of collection, and current physical host. This file opens in Excel or Numbers as a spreadsheet.</p>
