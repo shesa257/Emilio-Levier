@@ -7,3 +7,5 @@
 <p>Description: A JSON file containing the same information as the CSV file in a different format. This file opens in plain text editor</p>
 <p><b>File: LIS 545 Profile Draft</b></p>
 <p>Description: This file is the draft of my final profile for this project, and contains the remainder of the assignment not present in the previously mentioned files</p>
+<p><b>File: LIS 545 Profile Final</b></p>
+<p>Description: This file is my final profile for this project, and contains the remainder of the assignment not present in the previously mentioned files. The draft version has been included for reference as needed.</p>
