@@ -64,49 +64,6 @@
         <date dateType="Updated">2026-02-02</date>
     </dates>
     <language>en</language>
-    <alternateIdentifiers>
-        <alternateIdentifier alternateIdentifierType="Local accession number">12345</alternateIdentifier>
-    </alternateIdentifiers>
-    <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="ARK" relationType="IsCitedBy" resourceTypeGeneral="Audiovisual">ark:/13030/tqb3kh97gh8w</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="arXiv" relationType="Cites" resourceTypeGeneral="Award">arXiv:0706.0001</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="bibcode" relationType="IsSupplementTo" resourceTypeGeneral="Book">2018AGUFM.A24K..07S</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="CSTR" relationType="IsSupplementedBy" resourceTypeGeneral="BookChapter">31253.11.sciencedb.13238</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsContinuedBy" resourceTypeGeneral="Collection">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="EAN13" relationType="Continues" resourceTypeGeneral="ComputationalNotebook">9783468111242</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="EISSN" relationType="Describes" resourceTypeGeneral="ConferencePaper">1562-6865</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="Handle" relationType="IsDescribedBy" resourceTypeGeneral="ConferenceProceeding">10013/epic.10033</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="IGSN" relationType="HasMetadata" resourceTypeGeneral="DataPaper">IECUR0097</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="ISBN" relationType="IsMetadataFor" resourceTypeGeneral="Dataset">978-3-905673-82-1</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="ISSN" relationType="HasVersion" resourceTypeGeneral="Dissertation">0077-5606</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="ISTC" relationType="IsVersionOf" resourceTypeGeneral="Event">0A9 2002 12B4A105 7</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="LISSN" relationType="IsNewVersionOf" resourceTypeGeneral="Image">1188-1534</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="LSID" relationType="IsPreviousVersionOf" resourceTypeGeneral="InteractiveResource">urn:lsid:ubio.org:namebank:11815</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="PMID" relationType="IsPartOf" resourceTypeGeneral="Journal">12082125</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="PURL" relationType="HasPart" resourceTypeGeneral="JournalArticle">http://purl.oclc.org/foo/bar</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="RRID" relationType="IsPublishedIn" resourceTypeGeneral="Model">RRID:SCR_014641</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="UPC" relationType="IsReferencedBy" resourceTypeGeneral="OutputManagementPlan">123456789999</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="References" resourceTypeGeneral="PeerReview">http://www.heatflow.und.edu/index2.html</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="URN" relationType="IsDocumentedBy" resourceTypeGeneral="PhysicalObject">urn:nbn:de:101:1-201102033592</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="w3id" relationType="Documents" resourceTypeGeneral="Preprint">https://w3id.org/games/spec/coil#Coil_Bomb_Die_Of_Age</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsCompiledBy" resourceTypeGeneral="Project">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="Compiles" resourceTypeGeneral="Report">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVariantFormOf" resourceTypeGeneral="Service">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsOriginalFormOf" resourceTypeGeneral="Software">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo" resourceTypeGeneral="Sound">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReviewedBy" resourceTypeGeneral="Standard">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="Reviews" resourceTypeGeneral="Text">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom" resourceTypeGeneral="Workflow">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSourceOf" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsRequiredBy" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="Requires" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="Obsoletes" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsObsoletedBy" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="Collects" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsCollectedBy" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="HasTranslation" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsTranslationOf" resourceTypeGeneral="Other">10.1016/j.epsl.2011.11.037</relatedIdentifier>
-    </relatedIdentifiers>
     <sizes>
         <size>4.9 MB</size>
     </sizes>
